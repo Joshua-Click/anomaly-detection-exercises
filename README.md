@@ -58,7 +58,7 @@
 |start_date| start date for user in cohort|
 |end_date| end date for user in cohort|
 |program_id| number associated with program type, float|
-|endpoint| end of file path, object|
+|endpoint| end of file path, object|¡
 |startpoint| start of file path, object|
 
 ### How to Reproduce
@@ -106,6 +106,6 @@ User 812: Accessed more after graduation than during course.<p>
     wp-admin	<p>
     .git	<p>
     8._Time_Series.md	<p>
-    
+
 ### Recommendations
 With more time I could've answered all questions pertaining to the received request. I recommend making a category for lessons in the future to make working with the data easier.
